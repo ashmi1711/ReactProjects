@@ -3,7 +3,7 @@ import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import { Link } from "react-router-dom";
 
-import "../Assets/css/home-about.css";
+import "../assets/css/home-about.css";
 
 function Privacy() {
   return (

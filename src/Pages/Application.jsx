@@ -3,7 +3,7 @@ import Header from "../Components/Header";
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 
-import "../Assets/css/home-about.css";
+import "../assets/css/home-about.css";
 
 function Application() {
   const [formData, setFormData] = useState({
